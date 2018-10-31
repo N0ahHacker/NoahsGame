@@ -10,6 +10,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
 public class GuessingGame extends JFrame {
+	///test edit
 	private JTextField txtGuess;
 	private JLabel lblOutput;
 	JButton btnNewGame;
